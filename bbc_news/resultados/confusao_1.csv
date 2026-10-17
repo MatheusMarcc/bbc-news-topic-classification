@@ -1,0 +1,6 @@
+,business,entertainment,politics,sport,tech
+business,99,0,0,1,1
+entertainment,3,70,0,0,1
+politics,4,0,77,0,0
+sport,0,0,0,101,0
+tech,4,0,0,1,64
